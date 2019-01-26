@@ -13,7 +13,7 @@
     <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1547259561918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1547258720115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$anjuke.coverage" NAME="anjuke Coverage Results" MODIFIED="1545882439972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$anjuke2.coverage" NAME="anjuke2 Coverage Results" MODIFIED="1547375097366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$anjuke2.coverage" NAME="anjuke2 Coverage Results" MODIFIED="1548510863973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
@@ -30,18 +30,18 @@
       <file leaf-file-name="anjuke2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/anjuke2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3724">
-              <caret line="183" column="22" lean-forward="false" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
+            <state relative-caret-position="1566">
+              <caret line="86" column="34" lean-forward="true" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <element signature="e#563#1846#0" expanded="false" />
                 <element signature="e#2066#2421#0" expanded="false" />
-                <element signature="e#5473#5712#0" expanded="false" />
-                <marker date="1547380011070" expanded="true" signature="5957:6101" ph="insert into meituan_comment... " />
-                <marker date="1547380011070" expanded="true" signature="5957:6114" ph="insert into wuhan2... " />
-                <marker date="1547380011070" expanded="true" signature="5957:6125" ph="insert into wuhan2... " />
-                <marker date="1547380011070" expanded="true" signature="5957:6126" ph="insert into wuhan2... " />
-                <marker date="1547380011070" expanded="true" signature="5957:6233" ph="insert into wuhan2... " />
+                <element signature="e#5469#5708#0" expanded="false" />
+                <marker date="1548511006658" expanded="true" signature="5953:6097" ph="insert into meituan_comment... " />
+                <marker date="1548511006658" expanded="true" signature="5953:6110" ph="insert into wuhan2... " />
+                <marker date="1548511006658" expanded="true" signature="5953:6121" ph="insert into wuhan2... " />
+                <marker date="1548511006658" expanded="true" signature="5953:6122" ph="insert into wuhan2... " />
+                <marker date="1548511006658" expanded="true" signature="5953:6229" ph="insert into wuhan2... " />
               </folding>
             </state>
           </provider>
@@ -50,7 +50,7 @@
       <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="702">
               <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -127,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -140,12 +139,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/代理池/新版/proxy_pool-master" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -270,15 +270,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43809524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18196544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18844493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -338,6 +339,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test2.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#563#1846#0" expanded="false" />
+            <element signature="e#2066#2421#0" expanded="false" />
+            <element signature="e#4661#4900#0" expanded="false" />
+            <marker date="1547258720091" expanded="true" signature="5145:5289" ph="insert into wuhan2... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anjuke2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4293">
+          <caret line="197" column="10" lean-forward="false" selection-start-line="197" selection-start-column="10" selection-end-line="197" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#563#1846#0" expanded="false" />
+            <element signature="e#2066#2421#0" expanded="false" />
+            <element signature="e#5469#5708#0" expanded="false" />
+            <marker date="1548511006658" expanded="true" signature="5953:6097" ph="insert into meituan_comment... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6110" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6121" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6122" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6229" ph="insert into wuhan2... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anjuke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#563#1846#0" expanded="false" />
+            <element signature="e#2066#2421#0" expanded="false" />
+            <element signature="e#4661#4900#0" expanded="false" />
+            <marker date="1547258720091" expanded="true" signature="5145:5289" ph="insert into wuhan2... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anjuke2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3915">
+          <caret line="183" column="22" lean-forward="false" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#563#1846#0" expanded="false" />
+            <element signature="e#2066#2421#0" expanded="false" />
+            <element signature="e#5469#5708#0" expanded="false" />
+            <marker date="1548511006658" expanded="true" signature="5953:6097" ph="insert into meituan_comment... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6110" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6121" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6122" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6229" ph="insert into wuhan2... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anjuke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2511">
           <caret line="121" column="21" lean-forward="false" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
           <folding>
@@ -358,12 +439,12 @@
             <element signature="e#0#15#0" expanded="true" />
             <element signature="e#563#1846#0" expanded="false" />
             <element signature="e#2066#2421#0" expanded="false" />
-            <element signature="e#5473#5712#0" expanded="false" />
-            <marker date="1547380011070" expanded="true" signature="5957:6101" ph="insert into meituan_comment... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6114" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6125" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6126" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6233" ph="insert into wuhan2... " />
+            <element signature="e#5469#5708#0" expanded="false" />
+            <marker date="1548511006658" expanded="true" signature="5953:6097" ph="insert into meituan_comment... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6110" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6121" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6122" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6229" ph="insert into wuhan2... " />
           </folding>
         </state>
       </provider>
@@ -398,12 +479,12 @@
             <element signature="e#0#15#0" expanded="true" />
             <element signature="e#563#1846#0" expanded="false" />
             <element signature="e#2066#2421#0" expanded="false" />
-            <element signature="e#5473#5712#0" expanded="false" />
-            <marker date="1547380011070" expanded="true" signature="5957:6101" ph="insert into meituan_comment... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6114" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6125" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6126" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6233" ph="insert into wuhan2... " />
+            <element signature="e#5469#5708#0" expanded="false" />
+            <marker date="1548511006658" expanded="true" signature="5953:6097" ph="insert into meituan_comment... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6110" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6121" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6122" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6229" ph="insert into wuhan2... " />
           </folding>
         </state>
       </provider>
@@ -424,12 +505,12 @@
             <element signature="e#0#15#0" expanded="true" />
             <element signature="e#563#1846#0" expanded="false" />
             <element signature="e#2066#2421#0" expanded="false" />
-            <element signature="e#5473#5712#0" expanded="false" />
-            <marker date="1547380011070" expanded="true" signature="5957:6101" ph="insert into meituan_comment... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6114" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6125" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6126" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6233" ph="insert into wuhan2... " />
+            <element signature="e#5469#5708#0" expanded="false" />
+            <marker date="1548511006658" expanded="true" signature="5953:6097" ph="insert into meituan_comment... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6110" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6121" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6122" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6229" ph="insert into wuhan2... " />
           </folding>
         </state>
       </provider>
@@ -450,12 +531,12 @@
             <element signature="e#0#15#0" expanded="true" />
             <element signature="e#563#1846#0" expanded="false" />
             <element signature="e#2066#2421#0" expanded="false" />
-            <element signature="e#5473#5712#0" expanded="false" />
-            <marker date="1547380011070" expanded="true" signature="5957:6101" ph="insert into meituan_comment... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6114" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6125" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6126" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6233" ph="insert into wuhan2... " />
+            <element signature="e#5469#5708#0" expanded="false" />
+            <marker date="1548511006658" expanded="true" signature="5953:6097" ph="insert into meituan_comment... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6110" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6121" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6122" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6229" ph="insert into wuhan2... " />
           </folding>
         </state>
       </provider>
@@ -468,17 +549,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/anjuke.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="702">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -490,20 +563,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/anjuke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/anjuke2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3724">
-          <caret line="183" column="22" lean-forward="false" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
+        <state relative-caret-position="1566">
+          <caret line="86" column="34" lean-forward="true" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <element signature="e#563#1846#0" expanded="false" />
             <element signature="e#2066#2421#0" expanded="false" />
-            <element signature="e#5473#5712#0" expanded="false" />
-            <marker date="1547380011070" expanded="true" signature="5957:6101" ph="insert into meituan_comment... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6114" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6125" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6126" ph="insert into wuhan2... " />
-            <marker date="1547380011070" expanded="true" signature="5957:6233" ph="insert into wuhan2... " />
+            <element signature="e#5469#5708#0" expanded="false" />
+            <marker date="1548511006658" expanded="true" signature="5953:6097" ph="insert into meituan_comment... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6110" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6121" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6122" ph="insert into wuhan2... " />
+            <marker date="1548511006658" expanded="true" signature="5953:6229" ph="insert into wuhan2... " />
           </folding>
         </state>
       </provider>

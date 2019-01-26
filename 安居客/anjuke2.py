@@ -6,14 +6,14 @@ import random
 from multiprocessing import Pool
 import re
 from lxml import etree
-import MySQLdb
-import MySQLdb.cursors
+import pymysql
+import pymysql.cursors
 
 
 
 phone_api = 'https://wuhan.anjuke.com/v3/ajax/broker/phone/?broker_id={}&token={}&prop_id={}'
 
-conn = MySQLdb.connect('localhost', 'root', '1234', 'anjuke', charset='utf8', use_unicode=True)
+conn = pymysql.connect('localhost', 'root', '1234', 'anjuke', charset='utf8', use_unicode=True)
 cursor = conn.cursor()
 
 headers = {
@@ -85,7 +85,7 @@ def parse_index(i):
     detail_urls = re.findall('<a data-from.*href="(.*?)"', content)
     print(len(detail_urls))
     for detail_url in detail_urls:
-        # time.sleep(0.5)
+        time.sleep(2)
         get_html(detail_url)
 
 
